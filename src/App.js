@@ -1,9 +1,9 @@
-
+import { Advices } from "./components/intro";
 
 function App() {
   return (
     <>
-      <h1>Hello React App!</h1>
+      <Advices />
     </>
   );
 }
